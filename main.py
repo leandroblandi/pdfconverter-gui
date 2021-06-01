@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+# __author__ = "Leandro Blandi"
 
 import tkinter as tk #Tk, Entry, Label, Button, NORMAL
 import tkinter.filedialog
