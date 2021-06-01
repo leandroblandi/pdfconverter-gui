@@ -1,6 +1,9 @@
 # -*- coding:utf-8 -*-
 
-import tkinter as tk #Tk, Entry, Label, Button, NORMAL
+__author__ = "Leandro Blandi"
+__using_git__ = True
+
+import tkinter as tk
 import tkinter.filedialog
 import tkinter.messagebox
 import docx2pdf, time, os
